@@ -1,11 +1,11 @@
 body{
-    width: 820px;
+    width: 200vw;
     margin: 0;
     padding: 0;
     height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: justify;
     background: linear-gradient(217deg, rgba(255, 0, 0, 0.8), rgba(66, 170, 26, 0) 70.71%), linear-gradient(127deg, rgba(27, 175, 47, 0.8), rgba(0, 255, 0, 0) 70.71%), linear-gradient(336deg, rgba(0, 0, 255, .8), rgba(255, 0, 212, 0) 70.71%), url('https://s1.1zoom.me/b3137/720/Christmas_Red_background_Snowflakes_Template_573734_1920x1080.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -105,7 +105,7 @@ footer{
 .slide{
     text-align: center;
     width: 20%;
-    transition: 3s;
+    transition: 5s;
     color: white;
     background-color: rgba(0,0,0,0.1);
 }
